@@ -1,0 +1,6 @@
+/raw_data
+venv/*
+venv
+
+airflow_env/*
+airflow_env
